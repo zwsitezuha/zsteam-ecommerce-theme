@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/229251b9-fd5c-475a-97d0-ecb619973e04/deploy-status)](https://app.netlify.com/sites/zs-e-commerce/deploys)
 
+[![Dependabot Updates](https://github.com/zwsitezuha/zsteam-ecommerce-theme/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/zwsitezuha/zsteam-ecommerce-theme/actions/workflows/dependabot/dependabot-updates)
+
 ![Gatsby E-commerce theme designed by Matter](https://user-images.githubusercontent.com/43764894/223762927-2e463570-b09a-4d51-ab81-2e0fa8aa2c70.png)
 
 This beautiful theme from the [Matter Design Team](https://matterdesign.com.au/) gives you the styling and scaffolding for your next e-commerce site. You can customize to your heart's content and add the tooling for cart, transactions, product, and more. This theme uses:
