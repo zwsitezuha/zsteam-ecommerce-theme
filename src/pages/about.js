@@ -27,7 +27,7 @@ const AboutPage = (props) => {
         {/* Hero Container */}
         <Hero
           maxWidth={'900px'}
-          image={'/about.png'}
+          image={'/escape.jpg'}
           title={`Sydney \n Escape The Phobia T-Shirt`}
         />
 
@@ -88,7 +88,7 @@ const AboutPage = (props) => {
                 <li>Sophisticated and not mass-produced</li>
                 <li>Only natural materials</li>
               </ol>
-              <img alt={'founder'} src={toOptimizedImage('/about2.png')}></img>
+              <img alt={'founder'} src={toOptimizedImage('/escape-f.jpg')}></img>
             </div>
             <h3>Sustainability</h3>
             <div id={'#sustainability'} ref={sustainabilityRef}>
@@ -119,7 +119,7 @@ const AboutPage = (props) => {
         </Container>
 
         <div className={styles.imageContainer}>
-          <img alt={'shirt backwards'} src={toOptimizedImage('/about3.png')}></img>
+          <img alt={'shirt backwards'} src={toOptimizedImage('/escape-b.jpg')}></img>
         </div>
       </div>
     </Layout>
